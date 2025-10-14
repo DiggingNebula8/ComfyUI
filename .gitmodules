@@ -10,3 +10,6 @@
 [submodule "custom_nodes/ComfyUI-Advanced-ControlNet"]
 	path = custom_nodes/ComfyUI-Advanced-ControlNet
 	url = https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
+[submodule "custom_nodes/ComfyUI-Impact-Pack"]
+	path = custom_nodes/ComfyUI-Impact-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
